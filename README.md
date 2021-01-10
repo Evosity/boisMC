@@ -5,7 +5,7 @@ I do not own any of this. No copyright infringement intended. All rights and res
 ### Setup:
 These instructions assume you have a working Minecraft installed to your computer.
 
-If already have forge 14.23.5.2854 set up for 1.12.2, skip steps 1 & 2, though you should [make sure at least 4 GB of memory is allocated to the installation](https://youtu.be/SfVJq2Csln4?t=170).
+If you already have forge 14.23.5.2854 set up for 1.12.2, skip steps 1 & 2, though you should [make sure at least 4 GB of memory is allocated to the installation](https://youtu.be/SfVJq2Csln4?t=170).
 
 If you already have Git installed and know how to use it, skip step 3.
 
